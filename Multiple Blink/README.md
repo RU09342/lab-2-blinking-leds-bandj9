@@ -8,4 +8,4 @@ The purpose of this lab was to make multiple LEDs blink.  This was done exactly 
 4. MSP430FR5994
 5. MSP430FR6989
 
-![](https://im5.ezgif.com/tmp/ezgif-5-2af39de0d9.gif)
+![](https://media.giphy.com/media/xT9IgfaegXU3vBCwiA/giphy.gif)
