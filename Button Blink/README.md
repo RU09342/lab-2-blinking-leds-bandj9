@@ -15,3 +15,6 @@ All of the boards had similar code to run the button blink program.  There were 
 The board that is demonstrated for the button blink project is the MSP430G2553.  When the button is pressed the LED turns on and when the button is let go the LED turns off.  The button has a bouncing issues and it looks as though when the button is being pressed multiple times, although the button is only being pressed once.
 
 ![](https://media.giphy.com/media/3ov9jNnrnQELIPDgze/giphy.gif)
+
+## Extra Work
+It was very simple to add another button to toggle a different LED, this was created on an MSP430G2553.
